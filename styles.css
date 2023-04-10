@@ -1,0 +1,19 @@
+.parent{
+    background-color: aquamarine;
+    width: 800px;
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content:flex-end ;
+    align-items: flex-end;
+
+}
+
+
+.parent div{
+    width: 150px;
+    background-color:gray;
+    height: 50px;
+    text-align: center;
+}
